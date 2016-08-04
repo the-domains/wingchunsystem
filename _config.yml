@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: WingChunSystem
 favicon: null
+name: WingChunSystem
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.5215054
-layout_spectrum: 0.00181
+layout_spectrum: 0
