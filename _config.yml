@@ -1,41 +1,41 @@
-title: Wing Chun System
-purpose: []
+typography_spectrum: 0.5340502
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.00181
+title: Wing Chun System
+purpose: []
 color:
   saturation: 1
   brandStrength: 1
-  lightness: 0
+  rhythmicContrast: 0.25
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#646464'
     - '#868686'
     - '#2E2E2E'
-  rhythmicContrast: 0.25
+  lightness: 0
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: WingChunSystem
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5340502
-layout_spectrum: 0.00181
