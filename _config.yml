@@ -1,8 +1,5 @@
-typography_spectrum: 0.5340502
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: Wing Chun System
+purpose: []
 collections:
   - index:
       path: /
@@ -15,9 +12,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.00181
-title: Wing Chun System
-purpose: []
 color:
   saturation: 1
   brandStrength: 1
@@ -33,9 +27,15 @@ cta:
   bucket: null
   version: null
   domain: null
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
 name: WingChunSystem
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5215054
+layout_spectrum: 0.00181
